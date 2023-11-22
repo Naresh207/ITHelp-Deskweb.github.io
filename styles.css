@@ -16,14 +16,15 @@ body {
 /* Your content goes here */
 a {
     display: block;
-    margin-bottom: 10px;
-    padding: 10px 14px;
+    margin-bottom: 15px; /* Increased margin for better spacing */
+    padding: 15px 20px; /* Adjusted padding for larger button size */
     border-radius: 60px;
     text-decoration: none;
     color: white;
     background-color: #007bff;
     text-align: center;
-    width: 200px;
+    width: 240px; /* Increased width for larger button */
+    font-size: 20px; /* Increased font size for the text */
 }
 
 a:hover {
@@ -31,7 +32,7 @@ a:hover {
 }
 
 p {
-    font-size: 18px;
-    margin-bottom: 15px;
+    font-size: 20px; /* Increased font size for paragraphs */
+    margin-bottom: 20px; /* Increased margin for better spacing */
     font-weight: bold;
 }
