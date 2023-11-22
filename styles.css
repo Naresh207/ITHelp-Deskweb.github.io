@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center; /* Horizontal centering */
     align-items: center; /* Vertical centering */
-    height: 100vh; /* Adjust this according to your layout */
+    height: 50vh; /* Adjust this according to your layout */
     color: #ffffff; /* Change text color here */
     text-align: center;
 }
